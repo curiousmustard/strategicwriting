@@ -1,13 +1,13 @@
 # About
-title: Strategic Writing
-description: SVA MFA IXD Spring 2017
-url: http://strategicwriting.club
+title: Curious Mustard
+description: A blog
+url: https://curiousmustard.github.io/
 author:
-    name: Nicole Fenton
-    email: nfenton1@sva.edu
-    url: https://nicolefenton.com
+    name: Jen Hubbard
+    email: curiousmustard@gmail.com
+    url: https://curiousmustard.com
 github:
-  repo:              https://github.com/nicoleslaw/strategicwriting
+  repo:              https://github.com/curiousmustard/strategicwriting
 
 # Dependencies
 markdown: kramdown
